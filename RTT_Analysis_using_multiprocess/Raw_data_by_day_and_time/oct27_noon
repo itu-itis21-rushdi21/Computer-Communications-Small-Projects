@@ -1,0 +1,400 @@
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.google.com,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.google.com,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.google.com,3,142.251.141.36,0.00,10,0,33.95,33.51,30.96,40.47,2.96
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.google.com,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.google.com,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.google.com,3,142.251.141.36,0.00,20,0,31.19,34.18,30.95,46.32,3.54
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.google.com,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.google.com,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.google.com,3,142.251.141.36,0.00,30,0,35.76,34.04,30.27,38.29,2.15
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.google.com,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.google.com,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.google.com,3,142.251.141.36,0.00,40,0,33.98,36.80,31.14,50.11,4.12
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.google.com,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.google.com,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.google.com,3,142.251.141.36,0.00,50,0,37.65,43.82,33.34,103.63,11.07
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.google.com,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.google.com,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.google.com,3,142.251.141.36,0.00,60,0,45.88,42.78,30.26,105.26,11.30
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.google.com,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.google.com,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.google.com,3,142.251.141.36,0.00,70,0,31.90,39.66,31.10,104.67,10.61
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.google.com,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.google.com,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.google.com,3,142.251.141.36,0.00,80,0,32.26,38.07,29.63,103.29,10.32
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.google.com,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.google.com,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.google.com,3,142.251.141.36,0.00,90,0,30.66,39.09,26.37,106.58,10.39
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.google.com,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.google.com,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.google.com,3,142.251.141.36,0.00,100,0,28.86,39.95,26.32,401.50,37.72
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.tum.de,1,172.17.0.1,90.00,10,9,0.34,0.34,0.34,0.34,0.00
+MTR.0.95,1698605903,OK,www.tum.de,2,192.168.65.5,90.00,10,9,0.90,0.90,0.90,0.90,0.00
+MTR.0.95,1698605903,OK,www.tum.de,3,129.187.255.109,0.00,10,0,68.78,67.22,61.90,73.66,3.82
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.tum.de,1,172.17.0.1,95.00,20,19,0.44,0.44,0.44,0.44,0.00
+MTR.0.95,1698605913,OK,www.tum.de,2,192.168.65.5,95.00,20,19,1.69,1.69,1.69,1.69,0.00
+MTR.0.95,1698605913,OK,www.tum.de,3,129.187.255.109,0.00,20,0,66.83,70.28,65.58,85.09,5.01
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.tum.de,1,172.17.0.1,96.67,30,29,0.49,0.49,0.49,0.49,0.00
+MTR.0.95,1698605923,OK,www.tum.de,2,192.168.65.5,96.67,30,29,0.56,0.56,0.56,0.56,0.00
+MTR.0.95,1698605923,OK,www.tum.de,3,129.187.255.109,0.00,30,0,65.60,68.64,58.72,82.70,5.41
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.tum.de,1,172.17.0.1,97.50,40,39,0.42,0.42,0.42,0.42,0.00
+MTR.0.95,1698605933,OK,www.tum.de,2,192.168.65.5,97.50,40,39,0.76,0.76,0.76,0.76,0.00
+MTR.0.95,1698605933,OK,www.tum.de,3,129.187.255.109,0.00,40,0,60.97,66.72,59.43,77.76,4.98
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.tum.de,1,172.17.0.1,98.00,50,49,0.63,0.63,0.63,0.63,0.00
+MTR.0.95,1698605943,OK,www.tum.de,2,192.168.65.5,98.00,50,49,1.43,1.43,1.43,1.43,0.00
+MTR.0.95,1698605943,OK,www.tum.de,3,129.187.255.109,0.00,50,0,57.24,65.42,56.78,124.49,10.29
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.tum.de,1,172.17.0.1,98.33,60,59,0.14,0.14,0.14,0.14,0.00
+MTR.0.95,1698605953,OK,www.tum.de,2,192.168.65.5,98.33,60,59,0.60,0.60,0.60,0.60,0.00
+MTR.0.95,1698605953,OK,www.tum.de,3,129.187.255.109,0.00,60,0,65.17,66.41,57.84,128.93,10.18
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.tum.de,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.tum.de,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.tum.de,3,129.187.255.109,0.00,70,0,60.52,67.46,54.99,121.94,9.91
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.tum.de,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.tum.de,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.tum.de,3,129.187.255.109,0.00,80,0,56.61,64.05,49.60,141.48,12.85
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.tum.de,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.tum.de,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.tum.de,3,129.187.255.109,0.00,90,0,59.33,64.87,54.48,120.26,8.82
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.tum.de,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.tum.de,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.tum.de,3,129.187.255.109,0.00,100,0,63.09,69.95,55.74,437.09,38.32
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.aalto.fi,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.aalto.fi,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.aalto.fi,3,104.18.15.143,0.00,10,0,76.39,35.27,25.30,76.39,17.05
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.aalto.fi,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.aalto.fi,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.aalto.fi,3,104.18.15.143,0.00,20,0,30.47,42.98,26.73,83.39,12.54
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.aalto.fi,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.aalto.fi,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.aalto.fi,3,104.18.15.143,0.00,30,0,23.32,30.20,22.74,108.80,15.26
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.aalto.fi,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.aalto.fi,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.aalto.fi,3,104.18.15.143,0.00,40,0,23.40,30.66,21.89,56.50,7.38
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.aalto.fi,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.aalto.fi,2,192.168.65.5,96.00,50,48,2.48,2.50,2.48,2.52,0.03
+MTR.0.95,1698605943,OK,www.aalto.fi,3,104.18.15.143,0.00,50,0,30.48,34.82,22.59,115.26,18.62
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.aalto.fi,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.aalto.fi,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.aalto.fi,3,104.18.15.143,0.00,60,0,27.34,31.72,23.21,126.65,16.17
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.aalto.fi,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.aalto.fi,2,192.168.65.5,92.86,70,65,3.42,2.59,2.10,3.42,0.57
+MTR.0.95,1698605963,OK,www.aalto.fi,3,104.18.15.143,0.00,70,0,24.36,33.42,24.05,109.39,16.24
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.aalto.fi,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.aalto.fi,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.aalto.fi,3,104.18.15.143,0.00,80,0,21.99,29.12,21.44,126.62,15.04
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.aalto.fi,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.aalto.fi,2,192.168.65.5,98.89,90,89,2.16,2.16,2.16,2.16,0.00
+MTR.0.95,1698605983,OK,www.aalto.fi,3,104.18.15.143,0.00,90,0,19.89,29.36,15.90,117.43,13.50
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.aalto.fi,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.aalto.fi,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.aalto.fi,3,104.18.15.143,1.00,100,1,25.28,29.66,21.09,128.35,13.17
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,nus.edu.sg,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,nus.edu.sg,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,nus.edu.sg,3,45.60.33.225,0.00,10,0,81.90,94.04,81.90,144.45,19.32
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,nus.edu.sg,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,nus.edu.sg,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,nus.edu.sg,3,45.60.33.225,0.00,20,0,82.45,87.61,80.58,100.40,5.76
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,nus.edu.sg,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,nus.edu.sg,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,nus.edu.sg,3,45.60.33.225,0.00,30,0,82.08,83.11,76.16,103.07,5.25
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,nus.edu.sg,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,nus.edu.sg,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,nus.edu.sg,3,45.60.33.225,0.00,40,0,77.64,84.56,77.64,145.59,14.10
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,nus.edu.sg,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,nus.edu.sg,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,nus.edu.sg,3,45.60.33.225,0.00,50,0,76.79,84.87,75.29,146.00,15.65
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,nus.edu.sg,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,nus.edu.sg,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,nus.edu.sg,3,45.60.33.225,0.00,60,0,76.43,84.02,76.43,106.57,6.61
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,nus.edu.sg,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,nus.edu.sg,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,nus.edu.sg,3,45.60.33.225,0.00,70,0,74.91,84.50,74.41,106.83,7.80
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,nus.edu.sg,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,nus.edu.sg,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,nus.edu.sg,3,45.60.33.225,0.00,80,0,80.75,86.13,79.99,148.32,12.56
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,nus.edu.sg,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,nus.edu.sg,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,nus.edu.sg,3,45.60.33.225,0.00,90,0,77.18,82.91,74.86,104.48,6.68
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,nus.edu.sg,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,nus.edu.sg,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,nus.edu.sg,3,45.60.33.225,0.00,100,0,81.42,87.28,73.75,408.37,32.80
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.unimelb.edu.au,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.unimelb.edu.au,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,10,0,63.24,23.65,14.93,63.24,15.48
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.unimelb.edu.au,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.unimelb.edu.au,2,192.168.65.5,95.00,20,19,3.57,3.57,3.57,3.57,0.00
+MTR.0.95,1698605913,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,20,0,20.91,29.36,18.94,42.03,6.67
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.unimelb.edu.au,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.unimelb.edu.au,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,30,0,17.40,20.32,11.73,63.76,10.34
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.unimelb.edu.au,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.unimelb.edu.au,2,192.168.65.5,97.50,40,39,3.15,3.15,3.15,3.15,0.00
+MTR.0.95,1698605933,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,40,0,17.61,19.45,14.26,56.17,6.86
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.unimelb.edu.au,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.unimelb.edu.au,2,192.168.65.5,94.00,50,47,1.69,1.97,1.69,2.12,0.24
+MTR.0.95,1698605943,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,50,0,14.22,24.39,13.80,61.37,9.89
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605952,OK,www.unimelb.edu.au,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605952,OK,www.unimelb.edu.au,2,192.168.65.5,95.00,60,57,1.45,1.99,1.45,2.92,0.81
+MTR.0.95,1698605952,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,60,0,13.20,23.66,13.20,60.05,9.06
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.unimelb.edu.au,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.unimelb.edu.au,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,70,0,9.92,19.89,7.03,77.14,10.18
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605972,OK,www.unimelb.edu.au,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605972,OK,www.unimelb.edu.au,2,192.168.65.5,92.50,80,74,1.77,1.68,1.37,2.01,0.22
+MTR.0.95,1698605972,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,80,0,10.80,20.13,9.51,56.38,9.78
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605982,OK,www.unimelb.edu.au,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605982,OK,www.unimelb.edu.au,2,192.168.65.5,80.00,90,72,2.20,2.22,1.52,3.05,0.51
+MTR.0.95,1698605982,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,90,0,15.25,20.73,5.36,60.73,8.88
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.unimelb.edu.au,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.unimelb.edu.au,2,192.168.65.5,99.00,100,99,2.93,2.93,2.93,2.93,0.00
+MTR.0.95,1698605993,OK,www.unimelb.edu.au,3,104.18.40.141,0.00,100,0,17.26,20.84,10.87,290.82,27.96
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.berkeley.edu,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.berkeley.edu,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.berkeley.edu,3,141.193.213.20,0.00,10,0,44.38,32.63,23.39,44.38,7.96
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605914,OK,www.berkeley.edu,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605914,OK,www.berkeley.edu,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605914,OK,www.berkeley.edu,3,141.193.213.20,0.00,20,0,21.22,33.53,13.03,45.16,8.78
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.berkeley.edu,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.berkeley.edu,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.berkeley.edu,3,141.193.213.20,0.00,30,0,22.75,25.41,13.30,46.68,9.59
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.berkeley.edu,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.berkeley.edu,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.berkeley.edu,3,141.193.213.20,0.00,40,0,15.10,29.46,9.88,46.73,10.82
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605944,OK,www.berkeley.edu,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605944,OK,www.berkeley.edu,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605944,OK,www.berkeley.edu,3,141.193.213.20,0.00,50,0,15.67,34.86,13.92,82.30,13.37
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.berkeley.edu,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.berkeley.edu,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.berkeley.edu,3,141.193.213.20,0.00,60,0,54.79,32.59,12.59,98.39,15.02
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.berkeley.edu,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.berkeley.edu,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.berkeley.edu,3,141.193.213.20,0.00,70,0,44.63,31.36,9.33,90.05,14.09
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.berkeley.edu,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.berkeley.edu,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.berkeley.edu,3,141.193.213.20,0.00,80,0,38.71,31.78,10.70,96.41,14.47
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605984,OK,www.berkeley.edu,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605984,OK,www.berkeley.edu,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605984,OK,www.berkeley.edu,3,141.193.213.20,0.00,90,0,21.45,30.33,8.45,81.89,13.07
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.berkeley.edu,1,172.17.0.1,80.00,100,80,0.60,0.75,0.27,1.29,0.28
+MTR.0.95,1698605993,OK,www.berkeley.edu,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.berkeley.edu,3,141.193.213.20,0.00,100,0,25.75,30.73,8.57,91.25,13.72
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.mit.edu,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.mit.edu,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.mit.edu,3,23.33.6.100,10.00,10,1,54.60,60.52,51.94,97.33,14.97
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.mit.edu,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.mit.edu,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.mit.edu,3,23.33.6.100,5.00,20,1,55.25,61.53,54.36,96.44,10.30
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.mit.edu,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.mit.edu,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.mit.edu,3,23.33.6.100,3.33,30,1,54.01,59.03,50.84,101.39,9.56
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.mit.edu,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.mit.edu,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.mit.edu,3,23.33.6.100,2.50,40,1,54.69,57.33,50.21,90.72,8.14
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.mit.edu,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.mit.edu,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.mit.edu,3,23.33.6.100,2.00,50,1,55.54,61.86,52.58,107.60,10.45
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.mit.edu,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.mit.edu,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.mit.edu,3,23.33.6.100,1.67,60,1,59.05,59.20,46.49,103.04,9.55
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.mit.edu,1,172.17.0.1,60.00,70,42,1.57,1.87,0.97,3.32,0.62
+MTR.0.95,1698605963,OK,www.mit.edu,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.mit.edu,3,23.33.6.100,1.43,70,1,52.62,56.77,48.05,102.16,8.35
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.mit.edu,1,172.17.0.1,80.00,80,64,0.69,1.14,0.69,1.76,0.31
+MTR.0.95,1698605973,OK,www.mit.edu,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.mit.edu,3,23.33.6.100,1.25,80,1,54.02,58.87,45.04,103.24,8.99
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.mit.edu,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.mit.edu,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.mit.edu,3,23.33.6.100,1.11,90,1,112.39,57.21,45.30,112.39,13.52
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.mit.edu,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.mit.edu,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.mit.edu,3,23.33.6.100,0.00,100,0,59.44,56.86,45.75,133.67,13.43
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.harvard.edu,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.harvard.edu,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.harvard.edu,3,146.75.122.133,0.00,10,0,54.95,63.31,54.06,99.10,16.26
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.harvard.edu,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.harvard.edu,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.harvard.edu,3,146.75.122.133,0.00,20,0,58.11,66.10,54.94,97.34,11.65
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.harvard.edu,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.harvard.edu,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.harvard.edu,3,146.75.122.133,0.00,30,0,55.33,62.19,54.33,107.33,11.39
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.harvard.edu,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.harvard.edu,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.harvard.edu,3,146.75.122.133,0.00,40,0,54.86,61.91,49.37,96.05,10.60
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.harvard.edu,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.harvard.edu,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.harvard.edu,3,146.75.122.133,0.00,50,0,63.48,61.03,49.95,106.28,11.28
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.harvard.edu,1,172.17.0.1,41.67,60,25,1.40,2.13,1.25,3.91,0.59
+MTR.0.95,1698605953,OK,www.harvard.edu,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.harvard.edu,3,146.75.122.133,0.00,60,0,77.06,59.22,54.10,101.98,9.25
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.harvard.edu,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.harvard.edu,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.harvard.edu,3,146.75.122.133,0.00,70,0,57.05,63.38,53.20,119.62,11.79
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.harvard.edu,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.harvard.edu,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.harvard.edu,3,146.75.122.133,0.00,80,0,54.71,61.38,51.74,121.15,11.43
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.harvard.edu,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.harvard.edu,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.harvard.edu,3,146.75.122.133,0.00,90,0,80.61,57.79,47.54,103.33,9.91
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.harvard.edu,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.harvard.edu,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.harvard.edu,3,146.75.122.133,0.00,100,0,50.52,59.13,46.79,120.13,13.14
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.yale.edu,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.yale.edu,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.yale.edu,3,146.75.122.133,0.00,10,0,54.56,64.90,54.56,102.99,16.97
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.yale.edu,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.yale.edu,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.yale.edu,3,146.75.122.133,0.00,20,0,51.67,61.12,51.67,102.91,12.35
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.yale.edu,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.yale.edu,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.yale.edu,3,146.75.122.133,3.33,30,1,57.15,57.21,47.02,93.91,9.34
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.yale.edu,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.yale.edu,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.yale.edu,3,146.75.122.133,0.00,40,0,54.83,59.39,53.40,102.56,10.79
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.yale.edu,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.yale.edu,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.yale.edu,3,146.75.122.133,0.00,50,0,67.26,60.65,50.46,102.48,12.26
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.yale.edu,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.yale.edu,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.yale.edu,3,146.75.122.133,0.00,60,0,65.62,64.38,52.43,126.04,14.31
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.yale.edu,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.yale.edu,2,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.yale.edu,3,146.75.122.133,0.00,70,0,53.85,58.95,50.55,104.24,10.99
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.yale.edu,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.yale.edu,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.yale.edu,3,146.75.122.133,0.00,80,0,55.33,59.93,45.76,118.11,11.35
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.yale.edu,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.yale.edu,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.yale.edu,3,146.75.122.133,0.00,90,0,76.17,58.19,45.47,100.24,10.24
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.yale.edu,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.yale.edu,2,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.yale.edu,3,146.75.122.133,0.00,100,0,57.20,61.39,46.77,124.87,13.74
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605903,OK,www.utoronto.ca,1,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.utoronto.ca,2,???,100.00,10,10,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605903,OK,www.utoronto.ca,3,23.185.0.1,10.00,10,1,48.67,53.04,42.40,88.34,14.06
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605913,OK,www.utoronto.ca,1,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.utoronto.ca,2,???,100.00,20,20,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605913,OK,www.utoronto.ca,3,23.185.0.1,5.00,20,1,49.62,48.54,41.31,83.97,10.78
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605923,OK,www.utoronto.ca,1,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.utoronto.ca,2,???,100.00,30,30,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605923,OK,www.utoronto.ca,3,23.185.0.1,3.33,30,1,45.30,50.78,41.99,87.88,8.79
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605933,OK,www.utoronto.ca,1,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.utoronto.ca,2,???,100.00,40,40,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605933,OK,www.utoronto.ca,3,23.185.0.1,0.00,40,0,44.75,49.07,44.70,95.86,8.28
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605943,OK,www.utoronto.ca,1,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.utoronto.ca,2,???,100.00,50,50,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605943,OK,www.utoronto.ca,3,23.185.0.1,0.00,50,0,51.80,53.27,43.18,130.68,15.46
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605953,OK,www.utoronto.ca,1,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.utoronto.ca,2,???,100.00,60,60,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605953,OK,www.utoronto.ca,3,23.185.0.1,1.67,60,1,52.68,52.71,41.03,107.43,13.60
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605963,OK,www.utoronto.ca,1,???,100.00,70,70,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605963,OK,www.utoronto.ca,2,192.168.65.5,84.28,70,59,2.28,1.86,1.40,2.51,0.33
+MTR.0.95,1698605963,OK,www.utoronto.ca,3,23.185.0.1,0.00,70,0,49.51,51.10,39.90,117.37,11.41
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605973,OK,www.utoronto.ca,1,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.utoronto.ca,2,???,100.00,80,80,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605973,OK,www.utoronto.ca,3,23.185.0.1,1.25,80,1,47.08,49.86,39.09,108.29,13.69
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605983,OK,www.utoronto.ca,1,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.utoronto.ca,2,???,100.00,90,90,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605983,OK,www.utoronto.ca,3,23.185.0.1,1.11,90,1,100.85,50.09,37.54,100.85,12.77
+Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
+MTR.0.95,1698605993,OK,www.utoronto.ca,1,???,100.00,100,100,0.00,0.00,0.00,0.00,0.00
+MTR.0.95,1698605993,OK,www.utoronto.ca,2,192.168.65.5,53.00,100,53,0.46,1.10,0.31,2.45,0.51
+MTR.0.95,1698605993,OK,www.utoronto.ca,3,23.185.0.1,1.00,100,1,47.32,51.79,40.96,168.23,17.16
